@@ -1,0 +1,9 @@
+{
+    "default": true,// Start with default rules
+    "MD013": false,// Disable line length rule
+    "MD024": false,// Allow duplicate headers for CHANGELOG.md mostly
+    "MD025": false,// Allow multiple top-level headers for frontmatter markdown files
+    "MD033": false,// Allow inline HTML because <why>
+    "MD034": false,// Allow bare URLs because <why>
+    "MD041": false// Allow first line to be a header for frontmatter markdown files
+}
